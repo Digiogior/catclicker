@@ -1,0 +1,37 @@
+header {
+            margin-bottom: 15px;
+}
+main {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+nav {
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0 12px 0;
+}
+nav h1 {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+main {
+    width: 100%;
+}
+.content-container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+figure {
+    width: 640px;
+    margin: 0 auto;
+}
+#timer {
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+#reset {
+    display: block;
+    margin: 0 auto;
+}
